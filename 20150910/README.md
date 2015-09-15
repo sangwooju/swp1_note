@@ -46,6 +46,7 @@ git log
 ————
 adding to git
 ————
+
 1. git remote add origin https://github.com/sangwooju/swp1_note.git
 2. git push -u origin master
 3. user name
