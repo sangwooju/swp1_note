@@ -3,3 +3,5 @@
 Git commit! Git push! Woohoo
 
 Padding was the problem for the footer
+
+what is better? 사진 포샵 편집 or css 편집?
